@@ -7,7 +7,10 @@
     src="https://www.canva.com/design/DAGsnzYhMG4/An7r-xh0GzdOKKqmvKDpDQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGsnzYhMG4&#x2F;An7r-xh0GzdOKKqmvKDpDQ&#x2F;view?utm_content=DAGsnzYhMG4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Link da apresentação
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGsnzYhMG4&#x2F;An7r-xh0GzdOKKqmvKDpDQ&#x2F;view?utm_content=DAGsnzYhMG4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Link da apresentação (via canva)
+<br>
+<a href="https:&#x2F;&#x2F;github.com&#x2F;Raphides&#x2F;UnB_2025_Qualidade-de-software_Ruth-Lichterma&#x2F;blob&#x2F;main&#x2F;docs&#x2F;assets&#x2F;slides_finais.pdf" target="_blank" rel="noopener">Link da apresentação (pdf salvo no repositório)
+
 
 
 <table border="1" style="width:100%; border-collapse: collapse; text-align: left;">

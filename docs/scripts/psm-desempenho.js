@@ -6,7 +6,7 @@ function parseDate(utcDateStr) {
 }
 
 (async () => {
-  const fetchedCommits = await fetch("https://api.github.com/repos/FCTE-Qualidade-de-Software-1/2025-1-T01-RUTH-LICHTERMA/commits?per_page=100").then((res) => res.json());
+  const fetchedCommits = await fetch("https://api.github.com/repos/Raphides/UnB_2025_Qualidade-de-software_Ruth-Lichterma/commits?per_page=100&until=2025-07-11").then((res) => res.json());
   const lastCommitDate = parseDate(fetchedCommits[0].commit.author.date);
   const firstCommitDate = parseDate(fetchedCommits.at(-1).commit.author.date);
   const totalCommits = fetchedCommits.length;
